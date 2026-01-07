@@ -1,0 +1,4 @@
+date,deviation_type,deviation_pct,priority,cause,change,action,category
+2025-03-31,spike,7.079315641468872,1,Discount Rate,-27.3%,Adjust discount strategy to regain competitive positioning,critical
+2025-03-31,spike,7.079315641468872,2,Marketing Spend,+12.5%,Monitor marketing efficiency and cost per acquisition,important
+2025-03-31,spike,7.079315641468872,3,Sports Performance,-90.5%,Focus intervention on Sports category - primary revenue impact driver,critical
